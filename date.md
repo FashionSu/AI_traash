@@ -16,6 +16,7 @@ gantt
     撰寫計畫           :a10, after a9, 7d
     最後修正           :a11, after a10, 14d
 ```
+### PERT/CPM圖
 ```mermaid
 graph TD
     A[1.研究架構，需時16天] --> B[2.收集數據，需時7天]
