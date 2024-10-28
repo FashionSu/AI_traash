@@ -9,8 +9,8 @@ gantt
 
     研究架構           :a1, 2024-10-03, 16d
     收集數據           :a2, after a1, 7d
-    清理數據           :a3, after a1, 18d
-    模型訓練           :a4, after a2, 20d
+    清理數據           :a3, after a1, 7d
+    模型訓練           :a4, after a2, 10d
     評估分析           :a5, after a4, 7d
     調整參數           :a6, after a5, 7d
     評估分析           :a7, after a6, 7d
