@@ -7,7 +7,7 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %Y-%m-%d
 
-    研究架構           :a1, 2024-09-10, 16d
+    研究架構           :a1, 2024-10-03, 16d
     收集數據           :a2, after a1, 7d
     清理數據           :a3, after a1, 18d
     模型訓練           :a4, after a2, 20d
