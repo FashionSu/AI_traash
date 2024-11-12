@@ -1,2 +1,2 @@
-### UML圖
-![UML圖](./img/UML.jpg)
+### 類別圖
+![類別圖](./img/UML.jpg)
