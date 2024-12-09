@@ -8,6 +8,10 @@
 ## 循序圖
 <img src = "https://github.com/user-attachments/assets/a2061483-ac0a-474c-8944-b3910cdfebe4" width=30%>
 
+# **案例二　不要集點的人**  
+## 活動圖
+## 循序圖
+
 # **案例三　清潔人員**  
 ## 活動圖
 ![活動圖 drawio (1)](https://github.com/user-attachments/assets/7910cd74-818c-4417-bbbc-61dead21207b)
